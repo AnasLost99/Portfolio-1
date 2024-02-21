@@ -1,0 +1,274 @@
+
+.main{
+    width: 100%;
+    height: 100%;
+    /* background-color: aquamarine; */
+    background-image: url('image/bgrnd.jpg');
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-evenly;
+    
+}
+
+.sub1{
+    margin-top: 100px;
+    width: 80%;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url('image/bgrnd.jpg');
+}
+
+.sub2{
+    margin-top: 120px;
+    width: 80%;
+    height: 600px;
+    background-color: chartreuse;
+    background-image: url('image/bgrnd.jpg');
+    
+}
+
+.sub3{
+    margin-top: 120px;
+    width: 80%;
+    height: 600px;
+    background-color: red;
+    background-image: url('image/bgrnd.jpg');
+}
+.sub4{
+    margin-top: 120px;
+    width: 80%;
+    height: 600px;
+    background-color: beige;
+    background-image: url('image/bgrnd.jpg');
+}
+
+.img1{
+    
+    margin-top: 120px;
+}
+.sub11{
+    width: 40%;
+    height: 200px;
+    /* background-color: antiquewhite; */
+    margin-left: 50px;
+    margin-top: 90px;
+
+}
+.hd{
+    text-align: center;
+    font-family: 'Black Ops One', system-ui;
+    font-size: 40px;
+    color: white;
+}
+.pg{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Russo One', sans-serif;
+    color: white;
+}
+.sub21{
+    width: 60%;
+    height: 140px;
+    margin: auto;
+}
+.hd2{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+.pg2{
+    text-align: center;
+    font-family: 'Prompt', sans-serif; 
+    font-size: larger; 
+    color: white;   
+}
+.sub22{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+.sub221{
+    width: 50%;
+    height: 400px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.hd3{
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.pg3{
+    font-family: 'Prompt', sans-serif; 
+    font-size: large;
+    color: white;
+}
+.pg31{
+    font-family: 'Prompt', sans-serif; 
+    font-size: large;
+    color: white; 
+}
+.pg32{
+    font-family: 'Prompt', sans-serif; 
+    font-size: large;
+    color: white; 
+}
+.sub222{
+    width: 45%;
+    height: 120px;
+    margin-top: 140px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.hd4{
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.sub2221{
+    width: 100%;
+    height: 120px;
+    font-size: 30px;
+}
+.sub2221 a{
+    color: aquamarine;
+}
+.su31{
+    width: 60%;
+    height: 140px;
+    margin: auto;
+}
+.hd5{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+.pg5{
+    text-align: center;
+    font-family: 'Prompt', sans-serif; 
+    font-size: larger; 
+    color: white;   
+}
+.sub32{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.sub321{
+    width: 35%;
+    height: 200px;
+    
+}
+.sub322{
+    width: 45%;
+    height: 200px;
+    margin-top: -10px;
+    
+}
+.img2{
+    margin-left: 25px;
+}
+.hd6{
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.pg6{
+    font-family: 'Prompt', sans-serif; 
+    font-size: larger; 
+    color: white;
+}
+.bt1{
+    color: white;
+    background-color: aquamarine;
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: 'Prompt', sans-serif;
+}
+.su33{
+    width: 60%;
+    height: 140px;
+    margin: auto;
+}
+.hd7{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 35px;
+    color: white;
+}
+.sub331{
+    width: 60%;
+    height: 100px;
+    display: flex;
+    margin: auto;
+}
+.sub331 h3{
+    /* font-family: 'Russo One', sans-serif; */
+    color: white;
+    border: none;
+    width: max-content;
+    height: 30px;
+    background-color: darkgray;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.hd8{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    color: white;
+}
+.pg8{
+    font-family: 'Prompt', sans-serif; 
+    font-size: larger; 
+    color: white;
+    text-align: center;
+}
+.sub41{
+    font-family: 'Prompt', sans-serif;
+    width: 400px;
+    height: 435px;
+    background-color: aqua;
+    margin: auto;
+    /* text-align: center; */
+    padding-left: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-image: url('image/bgrnd.jpg');
+    color: white;
+}
+.sub41 input{
+    height: 35px;
+    width: 350px;
+    border-radius: 5px;
+    border: none;
+}
+.inputx{
+    height: 160px !important;
+}
+.sub41 button{
+    font-family: 'Prompt', sans-serif;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 285px;
+    background-color: aquamarine;
+    color: white;
+}
+button :hover{
+    background-color: aquamarine;
+}
+
+
